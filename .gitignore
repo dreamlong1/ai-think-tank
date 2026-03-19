@@ -1,0 +1,20 @@
+# Node.js
+ai-think-tank/frontend/node_modules/
+ai-think-tank/frontend/dist/
+ai-think-tank/frontend/build/
+
+# Python
+ai-think-tank/backend/venv/
+ai-think-tank/backend/__pycache__/
+ai-think-tank/backend/*.py[cod]
+ai-think-tank/backend/*.pyc
+ai-think-tank/backend/.env
+
+# Large files
+ai智囊团.mp4
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+Thumbs.db

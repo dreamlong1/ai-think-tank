@@ -1,0 +1,9 @@
+# Backend requirements
+fastapi
+uvicorn
+pydantic
+langgraph
+langchain-openai
+langchain-core
+python-dotenv
+sse-starlette

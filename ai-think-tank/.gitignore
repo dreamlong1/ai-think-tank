@@ -1,0 +1,35 @@
+# Dependency directories
+node_modules/
+venv/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Build
+dist/
+build/
+*.exe
+
+# IDEs
+.vscode/
+.idea/
+
+# Local configuration
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
