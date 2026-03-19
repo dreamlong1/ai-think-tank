@@ -4,9 +4,8 @@
 
 本项目是一个多代理(Multi-Agent)协作系统，旨在模拟一个专业的智囊团讨论过程。用户提出一个问题，系统会自动识别该领域并召集 3-6 位各具背景的虚拟专家进行异步并发讨论，最后由分析师汇总给出综合分析报告。
 
-
+## 🎬 演示视频
 https://github.com/user-attachments/assets/6e852252-ad69-46e7-9547-9d6469d63c20
-
 
 ## 🌟 核心亮点
 
@@ -14,16 +13,6 @@ https://github.com/user-attachments/assets/6e852252-ad69-46e7-9547-9d6469d63c20
 - **结构化输出 (Structured Output)**: 全链路使用 Pydantic 进行类型校验，确保 LLM 输出高可靠的 JSON 数据。
 - **SSE 推送**: 后端使用 FastAPI 的 `EventSourceResponse` 实时的流式消息推送，模拟真实的社交消息体验。
 - **沉浸式群聊 UI**: 前端采用 React 构建现代化的群聊界面，具有打字动画、专家角色头像和分组件渲染功能。
-
-## 🎬 演示视频
-
-以下是 AI 智囊团处理问题时的实时讨论过程演示：
-
-<video src="./demo.mp4" controls="controls" width="100%">
-  您的浏览器不支持播放该视频。
-</video>
-
----
 
 ## 📂 项目结构
 
