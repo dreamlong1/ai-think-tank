@@ -4,6 +4,10 @@
 
 本项目是一个多代理(Multi-Agent)协作系统，旨在模拟一个专业的智囊团讨论过程。用户提出一个问题，系统会自动识别该领域并召集 3-6 位各具背景的虚拟专家进行异步并发讨论，最后由分析师汇总给出综合分析报告。
 
+
+https://github.com/user-attachments/assets/6e852252-ad69-46e7-9547-9d6469d63c20
+
+
 ## 🌟 核心亮点
 
 - **动态多代理编排**: 使用 `LangGraph` 的 `StateGraph` 和 `Send` API 实现运行时的动态并发 (Fan-Out) 和结果聚合 (Reduce)。
