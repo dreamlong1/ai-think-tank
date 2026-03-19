@@ -15,7 +15,9 @@
 
 以下是 AI 智囊团处理问题时的实时讨论过程演示：
 
-![AI智囊团视频演示](ai智囊团.mp4)
+<video src="./demo.mp4" controls="controls" width="100%">
+  您的浏览器不支持播放该视频。
+</video>
 
 ---
 
